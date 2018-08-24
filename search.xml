@@ -3,7 +3,10 @@
   <entry>
     <title><![CDATA[Earth]]></title>
     <url>%2F2018%2F08%2F24%2FEarth%2F</url>
-    <content type="text"><![CDATA[这是一个访客来源定位工具,可以放大缩小； 有时会因为网络延迟出现异常！]]></content>
+    <content type="text"><![CDATA[这是一个访客来源定位工具,可以放大缩小；有时会因为网络延迟出现异常！]]></content>
+      <categories>
+        <category>read</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[One People One Course]]></title>
