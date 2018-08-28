@@ -1816,7 +1816,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #74e261;
+  background: #cbcbe9;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2692,7 +2692,7 @@ embed {
   height: 24px;
   width: 24px;
   cursor: pointer;
-  background: url("/blog/themes/next/source/images/wechat.svg");
+  background: url("https://raw.githubusercontent.com/wentangliang/images/master/wechat.png");
   background-size: 24px 24px;
 }
 .weixin-hover {
@@ -2703,7 +2703,7 @@ embed {
   width: 0px;
   border-radius: 3px;
   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.35);
-  background: url("/blog/theme/next/source/images/maoamochong.svg");
+  background: url("https://raw.githubusercontent.com/wentangliang/images/master/maomaochong.png");
   background-color: #fff;
   background-repeat: no-repeat;
   background-size: 150px 150px;
